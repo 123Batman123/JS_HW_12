@@ -17,4 +17,3 @@ closeModal.addEventListener('click', () => {
 function setCookie(name, value) {
     document.cookie = name + '=' + encodeURIComponent(value)
 }
-

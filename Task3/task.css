@@ -51,6 +51,7 @@
 }
 
 .container_button_active {
+  margin-top: 20px;
   display: flex;
   text-align: center;
   height: 100px;
